@@ -1,0 +1,24 @@
+.pcr_featured_wrap,
+.pcr_content_wrap {
+    display: inline-block;
+    position: relative;
+}
+
+.pcr_featured_wrap span,
+.pcr_content_wrap span {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    padding: 0 10px;
+    line-height: 26px;
+    background: rgba(255, 255, 255, 0.5);
+
+}
+
+.pcr_content_wrap figcaption + span {
+    bottom: 39px;
+}
+
+.pcr_content_wrap img {
+    vertical-align: top;
+}

@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Image Rights\n"
+"POT-Creation-Date: 2023-09-08 14:57+0200\n"
+"PO-Revision-Date: 2023-09-08 14:58+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: image-rights.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: image-rights.php:68
+msgid "Image Rights Options"
+msgstr "Image Rights Einstellungen"
+
+#: image-rights.php:75
+msgid "Copyright overlay on images"
+msgstr "Bildrechte-Overlay auf Bildern"
+
+#: image-rights.php:85
+msgid "activate"
+msgstr "aktivieren"
+
+#: image-rights.php:155
+msgid "Photographer Name"
+msgstr "Name des Fotografen"
+
+#: image-rights.php:158
+msgid "Provide name of photographer"
+msgstr "Geben Sie den Namen des Fotografen an"
+
+#: image-rights.php:162 image-rights.php:271 image-rights.php:273
+msgid "Platform"
+msgstr "Plattform"
+
+#: image-rights.php:165
+msgid "Provide name of platform (e.g. Adobe Stock)"
+msgstr "Geben Sie den Namen der Plattform an (z. B. Adobe Stock)"
+
+#: image-rights.php:249
+msgid "Image"
+msgstr "Bild"
+
+#: image-rights.php:249
+msgid "Image rights"
+msgstr "Bildrechte"
+
+#: image-rights.php:266
+msgid "Photographer"
+msgstr "Fotograf"
+
+#. Plugin Name of the plugin/theme
+msgid "Image Rights"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Adds additional fields for setting image credits in the media library."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "WSM – Walter Solbach Metallbau GmbH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.wsm.eu/"
+msgstr ""
